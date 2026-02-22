@@ -1,13 +1,12 @@
-package com.bondyu.chatproject;
+package com.climbinsight;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ChatProjectApplicationTests {
+class ClimbInsightApplicationTests {
 
     @Test
     void contextLoads() {
     }
-
 }
