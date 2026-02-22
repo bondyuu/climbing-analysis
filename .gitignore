@@ -35,3 +35,11 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Flutter
+frontend/climbing_failure_app/.dart_tool/
+frontend/climbing_failure_app/.packages
+frontend/climbing_failure_app/build/
+frontend/climbing_failure_app/.flutter-plugins
+frontend/climbing_failure_app/.flutter-plugins-dependencies
+frontend/climbing_failure_app/.metadata
