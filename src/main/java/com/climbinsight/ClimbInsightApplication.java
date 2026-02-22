@@ -1,13 +1,12 @@
-package com.bondyu.chatproject;
+package com.climbinsight;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChatProjectApplication {
+public class ClimbInsightApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ChatProjectApplication.class, args);
+        SpringApplication.run(ClimbInsightApplication.class, args);
     }
-
 }
